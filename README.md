@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @GeekJulia.
-- 👀 I’m interested in Full Stack Web Development, Ethical Hacking, and Mobile App Development.
-- 🌱 I’m currently learning Web development and Ethical Hacking.
+- 👀 I’m interested in solving real-world problems and doing technological research.
+- 🌱 I’m currently learning software development with Javascript and Python.
 - 💞️ I’m looking to collaborate on Meta and Microsoft.
 - 📫 How to reach me, through my email juliayaks148@gmail.com.
 
