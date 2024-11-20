@@ -2,6 +2,7 @@
 - 👀 I’m interested in solving real-world problems and doing technological research.
 - 🌱 I’m currently learning software(Backend) development with Python,FastAPI and PostgresSQL.
 - I also build projects with Javascript and HTML/CSS.
+- Knowing what happens behind the scenes of complex systems calls my name
   
 
 <!---
