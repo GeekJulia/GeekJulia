@@ -13,6 +13,7 @@ Frontend & Creative Development: JavaScript, React.js, HTML/CSS
 Software Engineering: System design, API development, cloud deployments
 
 💡 Always curious, always learning, and always building. Open to collaborations and new challenges!
+ How to reach me: Gmail: juliayaks148@gmail.com Instagram:@see_juliaa
 
 <!---
 GeekJulia/GeekJulia is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
