@@ -1,6 +1,7 @@
 👋 Hi, I’m Julia (@GeekJulia)
 🚀 Backend Developer | Software Engineer | Creative developer
 I’m passionate about solving real-world problems through technology, building robust backend systems, and exploring how things work behind the scenes.
+I also love building cool stuff like chatbots.
 
 🔹 Currently working on:
 Developing a website. A product launch is coming soon.🌚
