@@ -9,7 +9,7 @@ Enhancing my JavaScript, Node.js, and React.js skills to complement my backend e
 Building a strong GitHub presence by contributing daily.
 
 🔹 Tech Stack & Interests:
-Backend Development: Python (FastAPI), PostgreSQL, Express.js ||
+Backend Development: Python (Flask), PostgreSQL, Express.js ||
 Frontend & Creative Development: JavaScript, React.js, HTML/CSS, Figma, Blender ||
 Software Engineering: System design, API development, cloud deployments
 
