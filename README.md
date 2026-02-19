@@ -1,10 +1,10 @@
 👋 Hi, I’m Julia (@GeekJulia)
-🚀 Software Engineer || Designer
-I’m passionate about solving real-world problems through technology, building robust backend systems, and exploring how things work behind the scenes.
+🚀 Product Developer
+I’m passionate about solving real-world problems through technology, building robust software systems, and exploring how things work behind the scenes.
 I also love building cool stuff like chatbots.
 
 🔹 Currently working on:
-Developing a website. A product launch is coming soon.🌚
+My first Product Launch (Stackaiv Manager)
 Enhancing my JavaScript, Node.js, and React.js skills to complement my backend expertise.
 Building a strong GitHub presence by contributing daily.
 
